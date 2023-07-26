@@ -12,8 +12,7 @@
         "laravel/tinker": "^2.8",
         "livewire/livewire": "^2.12",
         "phpoffice/phpspreadsheet": "^1.29",
-        "pusher/pusher-php-server": "^7.2",
-        "rap2hpoutre/fast-excel": "^5.2"
+        "pusher/pusher-php-server": "^7.2"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
